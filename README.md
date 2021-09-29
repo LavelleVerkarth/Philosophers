@@ -1,7 +1,7 @@
 # Philosophers
 ### This is a project from  "School 21"
 This project uses a multithreading process, threads and mutex. 
-See more [subject](http://example.com/).
+See more [subject](https://github.com/LavelleVerkarth/Philosophers/blob/main/en.subject.pdf).
 
 ## Build
 
